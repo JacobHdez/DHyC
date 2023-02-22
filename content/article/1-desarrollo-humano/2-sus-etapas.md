@@ -8,7 +8,7 @@ updated: 2023-02-21
 
 ## Desarrollo Cognitivo
 
-![Desarrollo Cognitivo](./images/Desarrollo_Cognitivo.jpg)
+![Desarrollo Cognitivo](./images/desarrollo_cognitivo.jpg)
 
 ## Reflexión
 
