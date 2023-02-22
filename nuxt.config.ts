@@ -57,19 +57,20 @@ export default defineNuxtConfig({
   extends: ['bloginote'],
   content: {
     highlight: {
+      theme: 'github-dark',
       preload: [],
     },
   },
   runtimeConfig: {
     rss: {
-      title: 'Your Project Name',
-      description: 'the introduction about your project.',
+      title: 'Portafolio - DHyC - JHV',
+      description: 'Portafolio para la clase de Desarrollo Humano y Comunicación - UG-DICIS',
       image: 'https://your-project-logo.png',
       favicon: 'https://your-project-favicon.ico',
-      copyright: `All rights reserved ${(new Date()).getFullYear()}, Your Name`
+      copyright: `All rights reserved ${(new Date()).getFullYear()}, Jacobo Hernandez Varela`
     },
     public: {
-      hostname: 'https://your.domain.com'
+      hostname: 'https://dh-y-c.vercel.app'
     }
   },
 })
