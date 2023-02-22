@@ -1,3 +1,9 @@
+---
+series: Desarrollo Humano
+created: 2023-02-21
+updated: 2023-02-21
+---
+
 # 1.2 Desarrollo Humano: Sus etapas
 
 ## Desarrollo Cognitivo
