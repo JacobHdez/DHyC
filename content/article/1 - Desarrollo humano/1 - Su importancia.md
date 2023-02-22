@@ -1,4 +1,4 @@
-# 1.1 - Desarrollo humano: Su importancia
+# 1.1 Desarrollo humano: Su importancia
 
 ## Preguntas iniciales
 
