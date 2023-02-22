@@ -1,4 +1,4 @@
-# 1.1 Desarrollo humano: Su importancia
+# 1.1 - Desarrollo humano: Su importancia
 
 ## Preguntas iniciales
 
@@ -27,6 +27,36 @@ Contesta las siguientes preguntas
 8. Por mi inteligencia, y que se hacer bien las cosas.
 9. Cuando logro cumplir mis objetivos.
 10. Jugar Tenis de Mesa, programar y comer.
+
+---
+
+## Importancia del desarrollo humano
+
+### Instrucciones
+
+Escucha el video de Cesar Montesanos ([enlace](https://youtu.be/6hDsPPqYv7Y)) y escribe un resumen en grupo acerca de lo relatado.
+
+### Resumen
+
+*Desarrollo*: Proceso que experimenta el organismo hasta alcanzar un equilibrio.
+
+*Psicología*: Disciplina que estudia la conducta humana.
+
+Una forma de abordar la conducta es desde la perspectiva del desarrollo. Comenzamos por analizar la entidad física, luego el aspecto cognitivo (la influencia y desarrollo intelectual en el individuo) y por último, el ámbito social y de personalidad. Estamos interesados en éste ultimo pues explica la evolución de las diferencias individuales y las relaciones sociales en cada etapa del individuo.
+
+*El desarrollo efectivo social*: Capacidad de sentir emociones y relacionarnos con los demás.
+
+Alcanzar objetivos de felicidad y armonía, manejar emociones de manera sana es parte del desarrollo humano.
+
+¿En qué aspectos nos sentimos fracasados o frustrados? Ahí hay áreas que no tienen el desarrollo adecuado para alcanzar la felicidad.
+
+Hay estudiosos en el área: Carl Rogers define desarrollo humano como el proceso de convertirse en persona: auto-aceptación, congruencia, auto-observación, auto-conocimiento.
+
+El desarrollo humano es el camino a alcanzar la plenitud, nuestro verdadero potencial, donde son necesarias (o recomendadas) la paciencia, psicoterapia, fuerza de voluntad.
+
+### Conclusiones
+
+El video en cuestión me dejo más dudas que aclaraciones. No es descriptivo ni informativo debido a que habla (no explica) conceptos, que se necesita para ello y su importancia cayendo de nuevo en el vicio de recitar conceptos. Resumiendo un poco de los términos que se hablaron en el video puedo decir que el desarrollo humano es el proceso de que una persona logra la felicidad. Para ello es necesario la paciencia, fuerza de voluntad y recomendable psicoterapia. Además, nos ayuda a manejar emociones, logar la sana coexistencia con los demás individuos y al tratamiento de problemas en lo individual y social.
 
 ---
 
