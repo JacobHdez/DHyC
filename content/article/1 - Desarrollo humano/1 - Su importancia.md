@@ -62,6 +62,12 @@ El video en cuestión me dejo más dudas que aclaraciones. No es descriptivo ni 
 
 ## ¿Cómo ser sí mismo?
 
+### Instrucciones
+
+Lee el prólogo de Quiles y escribe tu reflexión al respecto y con respecto a ti mismo/misma.
+
+### Reflexión
+
 El libro comienza introduciendo cuestiones que el autor considera fundamentales dentro de la vida humana. ¿Qué soy yo? ¿Cuál es el sentido de mi vida? ¿Cuál es el ideal de sí mismo? ¿Cómo realizarlo?
 
 Estas son cuestiones que son tan complicadas debido a lo fundamental que son, tanto así, que éstas cuestiones son atemporales, es decir, al ser humano de cualquier época. Esto porque “el ser humano siente impulso de conocerse a si mismo para poder orientarse a si mismo y ser más sí mismo”.
