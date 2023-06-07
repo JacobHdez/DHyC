@@ -4,7 +4,7 @@ created: 2023-02-21
 updated: 2023-02-21
 ---
 
-# 1.3 Desarrollo humano: ONU-UNDP
+# 1.3 ONU-UNDP
 
 ## Indice de Desarrollo Humano (IDH)
 

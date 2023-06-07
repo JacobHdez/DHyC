@@ -4,7 +4,7 @@ created: 2023-02-21
 updated: 2023-02-21
 ---
 
-# 1.1 Desarrollo humano: Su importancia
+# 1.1 Su importancia
 
 ## Preguntas iniciales
 
